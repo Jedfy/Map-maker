@@ -1,5 +1,5 @@
 # Map-maker
-This is the public repository for an app to make maps for the team game mod. Working Exe file is downloadable. (this is vibe coded and ugly code, but it works)
+This is the public repository for an app to make maps for the team game mod. Working Exe file is downloadable. (this is vibe coded and ugly code, but it works) Wiki is in english, russian and chinese. Вики доступна на английском, русском и китайском языках. 维基提供英语、俄语和中文版本。
 
 # Wiki
 
