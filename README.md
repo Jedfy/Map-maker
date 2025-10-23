@@ -1,5 +1,5 @@
 # Map-maker
-This is the public repository for an app to make maps for the team game mod. Working Exe file is downloadable. (this is vibe coded and ugly code, but it works) Wiki is in english, russian and chinese. Вики доступна на английском, русском и китайском языках. 维基提供英语、俄语和中文版本。
+This is the public repository for an app to make maps for the team game mod. Working Exe file is downloadable. (this is vibe coded and ugly code, but it works) Wiki is in english, russian and chinese. Вики доступна на английском, русском и китайском языках. 维基提供英语、俄语和中文版本。Release is : https://github.com/Jedfy/Map-maker/releases/tag/v1.0.0
 
 # Wiki
 
@@ -63,3 +63,5 @@ Removes selected systems and hyperlanes
 ## About solar systems initializers
 You need the systems_initializers.xlsx file in the same folder for the solar systems initializers to work properly. You can add a vanilla one in the excel file, or even make your own solar system initializers. (they are in common\solar_system_initializers). If the initializer does not exist, an error will appear on the error.log and the system will instead be a random vanilla one.
 Also, there can only be 2 garantees for a player at the moment, and they can be at max 2 jumps away from the capital.
+
+
